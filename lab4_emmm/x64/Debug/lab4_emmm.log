@@ -1,0 +1,67 @@
+﻿  lab4_emmm.cpp
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab4_emmm\lab4_emmm.cpp(31,13): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab4_emmm\lab4_emmm.cpp(34,19): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab4_emmm\lab4_emmm.cpp(39,19): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab4_emmm\lab4_emmm.cpp(44,19): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab4_emmm\lab4_emmm.cpp(49,19): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab4_emmm\lab4_emmm.cpp(54,19): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab4_emmm\lab4_emmm.cpp(71,13): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab4_emmm\lab4_emmm.cpp(74,19): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab4_emmm\lab4_emmm.cpp(79,19): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab4_emmm\lab4_emmm.cpp(84,19): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab4_emmm\lab4_emmm.cpp(89,19): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab4_emmm\lab4_emmm.cpp(94,19): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab4_emmm\lab4_emmm.cpp(127,20): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  lab4_emmm.vcxproj -> C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab4_emmm\x64\Debug\lab4_emmm.exe
