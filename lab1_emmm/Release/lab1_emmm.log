@@ -1,0 +1,11 @@
+﻿  lab1_emmm.cpp
+C:\Users\79507\Desktop\lab1_emmm\lab1_emmm.cpp(278,33): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 303 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  lab1_emmm.vcxproj -> C:\Users\79507\Desktop\lab1_emmm\Release\lab1_emmm.exe

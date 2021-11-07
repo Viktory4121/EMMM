@@ -1,0 +1,7 @@
+﻿  lab1_emmm.cpp
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab1_emmm\lab1_emmm.cpp(278,33): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  lab1_emmm.vcxproj -> C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab1_emmm\x64\Debug\lab1_emmm.exe

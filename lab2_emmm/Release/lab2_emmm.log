@@ -1,0 +1,30 @@
+﻿  lab2_emmm.cpp
+C:\Users\79507\Desktop\lab2_emmm\lab2_emmm.cpp(112,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab2_emmm\lab2_emmm.cpp(315,14): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\lab2_emmm\lab2_emmm.cpp(325,24): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\lab2_emmm\lab2_emmm.cpp(331,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab2_emmm\lab2_emmm.cpp(354,24): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\lab2_emmm\lab2_emmm.cpp(361,37): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab2_emmm\lab2_emmm.cpp(403,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79507\Desktop\lab2_emmm\lab2_emmm.cpp(453,12): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 356 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  lab2_emmm.vcxproj -> C:\Users\79507\Desktop\lab2_emmm\Release\lab2_emmm.exe

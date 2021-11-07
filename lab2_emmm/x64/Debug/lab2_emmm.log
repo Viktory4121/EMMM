@@ -1,0 +1,22 @@
+﻿  lab2_emmm.cpp
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab2_emmm\lab2_emmm.cpp(315,14): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab2_emmm\lab2_emmm.cpp(325,24): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab2_emmm\lab2_emmm.cpp(354,24): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab2_emmm\lab2_emmm.cpp(453,12): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  lab2_emmm.vcxproj -> C:\Users\79507\Desktop\Lipeck\3_k_6_s\EMMM\lab2_emmm\x64\Debug\lab2_emmm.exe
