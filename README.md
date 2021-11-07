@@ -1,1 +1,1 @@
-# Economic_and_mathematical_methods_and_models
+# Лабораторные работы по Экономико-математическим методам и моделям
